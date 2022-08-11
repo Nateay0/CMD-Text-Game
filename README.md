@@ -45,7 +45,7 @@ Bash
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Nateay_](https://twitter.com/Nateay_) - nathankamineni@gmail.com
 
 Project Link: [https://github.com/Nateay0/CMD-Text-Game](https://github.com/Nateay0/CMD-Text-Game)
 
