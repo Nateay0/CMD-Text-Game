@@ -22,7 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A CMD adventure game that you can customize to make your own game but I of course I put a short pre-made gamr :smile:
+A CMD adventure game that you can customize to make your own game but I of course I put a short pre-made game :smile:
 
 
 ### Built With
