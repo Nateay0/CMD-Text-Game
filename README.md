@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Best-README-Template</h3>
+<h3 align="center">CMD-Text-Game</h3>
 
   <p align="center">
     An awesome CMD-Text-Game!
